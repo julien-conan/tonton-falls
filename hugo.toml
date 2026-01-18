@@ -1,5 +1,6 @@
-languageCode = 'en-us'
+languageCode = 'fr'
 title = 'Tonton Falls'
+defaultContentLanguage = 'fr'
 
 [params]
 site_logo = "/images/logo-simple.svg"
