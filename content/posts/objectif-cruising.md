@@ -9,8 +9,8 @@ omit_title = true
 
 Ce qu’on veut toutes et tous finalement c’est cruiser avec style, fluidité, aisance et si possible en mettant quelques tricks en passant. Pour cela, on va devoir : 
 
-- Monter sur sa planche
-- Pousser, tourner, freiner
+- Monter sur sa planche [1]
+- Pousser, tourner, freiner [2]
 - Développer sa confiance
 - Passer les obstacles en diagonale
 - Passer les obstacles en mini ollie
@@ -32,7 +32,7 @@ Pratique - Économique - Écologique - Excellent pour la santé
     - Chaussettes adaptées/épaisses (sauf préférence), bien calé dans la chaussure - pas de flottement
 - Gants / bonnet : vitaux en hiver, pistolet à eau en été.
 
-## Monter sur sa plancheno
+## Monter sur sa planche
 
 ## Tips
 
