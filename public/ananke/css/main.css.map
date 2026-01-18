@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/fal8s/Sources/quickstart",
+	"sourceRoot": "/Users/fal8s/Sources/tonton-falls",
 	"sources": [
 		"ananke/css/main.css"
 	],

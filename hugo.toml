@@ -1,7 +1,6 @@
 baseURL = 'https://tontonfalls.com/'
 languageCode = 'en-us'
 title = 'Tonton Falls'
-theme = 'ananke'
 
 [params]
 site_logo = "/images/logo-simple.svg"
@@ -15,3 +14,7 @@ weight = 10
 name = "Articles"
 url = "/"
 weight = 20
+
+[module]
+[[module.imports]]
+path = "github.com/theNewDynamic/gohugo-theme-ananke/v2"
