@@ -32,6 +32,8 @@ Pratique - Économique - Écologique - Excellent pour la santé
     - Chaussettes adaptées/épaisses (sauf préférence), bien calé dans la chaussure - pas de flottement
 - Gants / bonnet : vitaux en hiver, pistolet à eau en été.
 
+## Monter sur sa plancheno
+
 ## Tips
 
 - Ne pas tenir les barres dans le métro, mais tenir l’équilibre et surtout les déséquilibres des accélérations, des virages et des freinages dans les transports en commun
