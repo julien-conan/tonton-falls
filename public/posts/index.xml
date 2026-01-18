@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Tonton Falls</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Tonton Falls</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 17 Jan 2026 15:45:27 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Objectif Cruising</title>
+      <link>http://localhost:1313/posts/objectif-cruising/</link>
+      <pubDate>Sat, 17 Jan 2026 15:45:27 +0100</pubDate>
+      <guid>http://localhost:1313/posts/objectif-cruising/</guid>
+      <description>&lt;p&gt;Ce qu’on veut toutes et tous finalement c’est cruiser avec style, fluidité, aisance et si possible en mettant quelques tricks en passant. Pour cela, on va devoir :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Monter sur sa planche&lt;/li&gt;&#xA;&lt;li&gt;Pousser, tourner, freiner&lt;/li&gt;&#xA;&lt;li&gt;Développer sa confiance&lt;/li&gt;&#xA;&lt;li&gt;Passer les obstacles en diagonale&lt;/li&gt;&#xA;&lt;li&gt;Passer les obstacles en mini ollie&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;pourquoi-le-cruising-en-ville-cest-la-vie-&#34;&gt;Pourquoi le cruising en ville, c’est la vie ?&lt;/h2&gt;&#xA;&lt;p&gt;Pratique - Économique - Écologique - Excellent pour la santé&lt;/p&gt;&#xA;&lt;p&gt;Être au bon rythme, libre, à la force des mollets. Ne pas seulement se déplacer d’un point A à un point B. Mais (re)découvrir son environnement et partir à l’aventure tous les jours ! Chaque occasion est bonne pour sortir sa board !&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

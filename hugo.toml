@@ -1,0 +1,17 @@
+baseURL = 'https://tontonfalls.com/'
+languageCode = 'en-us'
+title = 'Tonton Falls'
+theme = 'ananke'
+
+[params]
+site_logo = "/images/logo-simple.svg"
+
+[[menu.main]]
+name = "À propos"
+url = "/about/"
+weight = 10
+
+[[menu.main]]
+name = "Articles"
+url = "/"
+weight = 20

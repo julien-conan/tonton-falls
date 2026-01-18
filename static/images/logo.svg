@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" role="img" aria-label="Logo école de longboard">
+  <defs>
+    <style>
+      .word { font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 800; letter-spacing: 0.5px; }
+      .sub  { font-family: system-ui, -apple-system, Segoe UI, Roboto, "Helvetica Neue", Arial, sans-serif; font-weight: 600; letter-spacing: 1.8px; }
+    </style>
+  </defs>
+
+  <!-- Mark -->
+  <g transform="translate(20,28)">
+    <!-- Longboard deck -->
+    <rect x="0" y="38" width="210" height="52" rx="26" fill="none" stroke="currentColor" stroke-width="10"></rect>
+    <!-- Trucks -->
+    <rect x="44" y="50" width="38" height="28" rx="10" fill="currentColor"></rect>
+    <rect x="128" y="50" width="38" height="28" rx="10" fill="currentColor"></rect>
+    <!-- Wheels -->
+    <circle cx="54" cy="102" r="16" fill="none" stroke="currentColor" stroke-width="10"></circle>
+    <circle cx="156" cy="102" r="16" fill="none" stroke="currentColor" stroke-width="10"></circle>
+
+    <!-- Subtle motion slash -->
+    <path d="M12 28 L78 6" fill="none" stroke="currentColor" stroke-width="10" stroke-linecap="round"></path>
+  </g>
+
+  <!-- Wordmark -->
+  <g transform="translate(260,56)">
+    <text class="word" x="0" y="0" font-size="44" fill="currentColor">SKATE SCHOOL</text>
+    <text class="sub" x="2" y="44" font-size="18" fill="currentColor" opacity="0.9">LONGBOARD • COACHING</text>
+  </g>
+</svg>

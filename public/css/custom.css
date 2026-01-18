@@ -1,0 +1,4 @@
+/* Hide h1 title on homepage */
+.home h1.f2 {
+  display: none;
+}
