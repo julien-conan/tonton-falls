@@ -3,8 +3,7 @@ date = '2026-01-17T15:45:27+01:00'
 draft = false
 title = 'Objectif Cruising'
 featured_image = 'images/white-haired-man-street-style-outfit-listening-music-holding-skate-board (low).jpg'
-omit_header_text = false
-omit_title = true
+omit_header_text = true
 +++
 
 Ce qu’on veut toutes et tous finalement c’est cruiser avec style, fluidité, aisance et si possible en mettant quelques tricks en passant. Pour cela, on va devoir : 
@@ -12,8 +11,7 @@ Ce qu’on veut toutes et tous finalement c’est cruiser avec style, fluidité,
 - Monter sur sa planche [1]
 - Pousser, tourner, freiner [2]
 - Développer sa confiance
-- Passer les obstacles en diagonale
-- Passer les obstacles en mini ollie
+- Passer des obstacles à pied, en diagonale, et en sautant
 
 ## Pourquoi le cruising en ville, c’est la vie ?
 
