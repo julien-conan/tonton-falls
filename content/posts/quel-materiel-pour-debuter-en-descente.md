@@ -2,7 +2,10 @@
 date = '2026-01-18T16:24:45+01:00'
 draft = false
 title = 'Quel Materiel Pour Debuter en Descente'
+featured_image = 'images/materiel-debutant.jpeg'
+omit_header_text = true
 +++
+
 Pour bien débuter en descente, il te faudra : une planche et des protections. La
 planche, plus tu la connais et plus tu es à l’aise dessus et mieux ce sera.
 
