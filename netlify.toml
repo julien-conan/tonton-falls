@@ -1,5 +1,5 @@
 [build]
-command = "hugo --logLevel info"
+command = "hugo --logLevel info -b $URL"
 publish = "public"
 
 [build.environment]
