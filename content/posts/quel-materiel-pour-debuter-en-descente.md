@@ -10,7 +10,9 @@ Idéalement une board rigide, avec des trucks larges en 180mm par exemple
 pour plus de stabilité (après, tu roules ce que tu veux, on ne juge pas), des
 roues qui glissent et une bonne envie de dévaler les pentes !
 
-Côté protection, à basse vitesse, en environnement contrôlé, le minimum c’est :
+## Quelles protections choisir ?
+
+A basse vitesse, en environnement contrôlé, le minimum c’est :
 - un casque (bol ou intégral) à la bonne taille avec la jugulaire bien
 réglée et bien fermée (il ne faut pas que le casque bouge sur ta tête)
 des gants avec des pucks, ces protections en plastique (ABS, Teflon…)
