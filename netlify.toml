@@ -1,5 +1,5 @@
 [build]
-command = "hugo version && hugo --verbose --debug"
+command = "hugo --logLevel info"
 publish = "public"
 
 [build.environment]
