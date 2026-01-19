@@ -1,5 +1,5 @@
 +++
-date = '2026-01-18T16:24:45+01:00'
+date = '2025-12-25T16:24:45+01:00'
 draft = false
 title = 'Quel Materiel Pour Debuter en Descente'
 featured_image = 'images/materiel-debutant.jpeg'

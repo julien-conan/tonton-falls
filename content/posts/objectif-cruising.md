@@ -1,5 +1,5 @@
 +++
-date = '2026-01-17T15:45:27+01:00'
+date = '2026-01-01T15:45:27+01:00'
 draft = false
 title = 'Objectif Cruising'
 featured_image = 'images/white-haired-man-street-style-outfit-listening-music-holding-skate-board (low).jpg'
