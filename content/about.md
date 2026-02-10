@@ -5,7 +5,7 @@ description = "En savoir plus sur notre école de longboard"
 
 ## Bienvenue
 
-Bienvenue sur le site de **Tonton Falls Longboard School**, votre école de longboard.
+Bienvenue sur le site de **Tonton Falls Longboard School**, votre école de longboard à Toulouse et ses environs.
 
 ### Qui suis-je ?
 
