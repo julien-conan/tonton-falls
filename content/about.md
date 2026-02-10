@@ -9,7 +9,7 @@ Bienvenue sur le site de **Tonton Falls Longboard School**, votre école de long
 
 ### Qui suis-je ?
 
-Je suis un amateur de longboard en tous genres, des plus petits aux plus grands, en passant par tout ce qui roule. J'accompagne des élèves débutants depuis plusieurs années, d'abord au sein de l'Association des Longboardeurs Toulousains puis en complément en proposant des sessions personnalisées et/ou solo, car je sais ce que c'est que de devoir apprendre cette discipline avec le poids du regard des autres. J'ai obtenu le Brevet d'Initiateur Fédéral de la FFRS (Fédération Française de Rollers et Skateboards) en 2023.
+Je suis un amateur de longboard en tous genres, des plus petits aux plus grands, en passant par tout ce qui roule. J'accompagne des élèves débutants depuis plusieurs années, d'abord au sein d'[ALT](www.alt-skate.fr) (Association des Longboardeurs Toulousains) puis en complément en proposant des sessions personnalisées et/ou solo, car je sais ce que c'est que de devoir apprendre cette discipline avec le poids du regard des autres. J'ai obtenu le Brevet d'Initiateur Fédéral de la [FFRS](https://ffroller-skateboard.fr) (Fédération Française de Rollers et Skateboards) en 2023.
 
 ### Mes valeurs
 
