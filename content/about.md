@@ -27,8 +27,12 @@ Un amateur de longboard en tous genres, des plus petits aux plus grands, en pass
 - Coaching personnalisé
 - Sessions en groupe et accompagnement
 
-## Mes réseaux
+## Réserver un créneau
 
-[https://www.instagram.com/fal8s](Instagram)
-[https://www.facebook.com/fallsorser](Facebook)
-[mailto:jconan@outlook.fr](Email)
+(à venir)
+
+### Mes réseaux
+
+[Instagram](https://www.instagram.com/fal8s)  
+[Facebook](https://www.facebook.com/fallsorser)  
+[Email](mailto:jconan@outlook.fr)
