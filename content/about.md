@@ -34,5 +34,5 @@ Un amateur de longboard en tous genres, des plus petits aux plus grands, en pass
 ### Mes réseaux
 
 [Instagram](https://www.instagram.com/fal8s)  
-[Facebook](https://www.facebook.com/fallsorser)  
+[Facebook](https://www.facebook.com/FallsHimself/)  
 [Email](mailto:jconan@outlook.fr)
