@@ -1,18 +1,26 @@
-## Website live at
+# tonton-falls-angular
 
-www.tontonfalls.com
+This project was generated with [Analog](https://analogjs.org), the fullstack meta-framework for Angular.
 
-## Documentation
+## Setup
 
-https://gohugo.io/getting-started/quick-start/
+Run `npm install` to install the application dependencies.
 
-## Usual commands
+## Development
 
-hugo server -D
+Run `npm start` for a dev server. Navigate to `http://localhost:5173/`. The application automatically reloads if you change any of the source files.
 
-hugo new content content/posts/mon-post.md
-sed -i '' 's/draft: true/draft: false/' content/posts/mon-post.md
-sed -i '' '/title = .*/a
-featured_image = '''images/name.extension'''
-omit_header_text = true
-' content/posts/mon-post.md
+## Build
+
+Run `npm run build` to build the client/server project. The client build artifacts are located in the `dist/analog/public` directory. The server for the API build artifacts are located in the `dist/analog/server` directory.
+
+## Test
+
+Run `npm run test` to run unit tests with [Vitest](https://vitest.dev).
+
+## Community
+
+- Visit and Star the [GitHub Repo](https://github.com/analogjs/analog)
+- Join the [Discord](https://chat.analogjs.org)
+- Follow us on [Twitter](https://twitter.com/analogjs)
+- Become a [Sponsor](https://github.com/sponsors/brandonroberts)
