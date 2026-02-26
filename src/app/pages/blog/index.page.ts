@@ -8,7 +8,7 @@ import PostAttributes from '../../post-attributes';
   selector: 'app-blog',
   imports: [RouterLink],
   template: `
-    <h1>Tonton Falls</h1>
+    <h2>Sommaire</h2>
 
     @for (post of posts; track post.attributes.slug) {
     <a [routerLink]="['/blog/', post.attributes.slug]">
@@ -22,6 +22,11 @@ import PostAttributes from '../../post-attributes';
       text-align: left;
       display: block;
       margin-bottom: 2rem;
+    }
+
+    h2{
+      margin: 1rem 0;
+      text-decoration: underline;
     }
 
     .post__title,

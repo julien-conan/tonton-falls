@@ -1,16 +1,13 @@
 ---
 title: Quel Materiel Pour Debuter en Descente
 slug: quel-materiel-pour-debuter-en-descente
-description: Accrochez-vous bien, voici le pack débutant nécessaire pour démarrer en descente dans de bonnes conditions
+description: Pack débutant pour démarrer en descente dans de bonnes conditions
 coverImage: 'images/materiel-debutant.jpeg'
 ---
 
-Pour bien débuter en descente, il te faudra : une planche et des protections. La
-planche, plus tu la connais et plus tu es à l’aise dessus et mieux ce sera.
+Pour bien débuter en descente, il te faudra : une planche et des protections. La planche, plus tu la connais et plus tu es à l’aise dessus et mieux ce sera.
 
-Idéalement une board rigide, avec des trucks larges en 180mm par exemple
-pour plus de stabilité (après, tu roules ce que tu veux, on ne juge pas), des
-roues qui glissent et une bonne envie de dévaler les pentes !
+Idéalement une board rigide, avec des trucks larges en 180mm par exemple pour plus de stabilité (après, tu roules ce que tu veux, on ne juge pas), des roues qui glissent et une bonne envie de dévaler les pentes !
 
 ## Quelles protections choisir ?
 
@@ -23,8 +20,6 @@ A basse vitesse, en environnement contrôlé, le minimum c’est :
 - un [crash pad](https://www.decathlon.fr/p/sous-short-de-protection-coccyx-adulte-roller-quad-trottinette/_/R-p-345946?mc=8796466&c=noir_blanc), ces protections de snowboard ou de rugby qui amortissent les chutes sur les fesses et les cuisses
 - un pantalon épais en jean, tu peux le renforcer facilement avec des chutes de cuir que tu colles à la néoprène sur les endroits stratégiques (demandes au [cordonnier](https://maps.app.goo.gl/Wvq2jGPunYczmZxM9) de ton quartier, il sera ravi)
 
-A cela tu peux ajouter des protections style BMX ou Motocross pour couvrir les
-épaules.
+A cela tu peux ajouter des protections style BMX ou Motocross pour couvrir les épaules.
 
-Plutôt que des plaques de bois pour faire des gants maison, il y a les planches
-de cuisine à découper, en plastique blanc ou autre. Elles résistent plutôt bien à l’abrasion.
+Plutôt que des plaques de bois pour faire des gants maison, il y a les planches de cuisine à découper, en plastique blanc ou autre. Elles résistent plutôt bien à l’abrasion.

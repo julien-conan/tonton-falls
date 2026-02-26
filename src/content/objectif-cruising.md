@@ -1,7 +1,7 @@
 ---
 title: Objectif Cruising
 slug: objectif-cruising
-description: Comment se ballader en longboard dans toutes les conditions
+description: Comment se ballader en longboard dans toutes les conditions (ou presque)
 coverImage: 'images/white-haired-man-street-style-outfit-listening-music-holding-skate-board (low).jpg'
 ---
 
@@ -85,7 +85,3 @@ Il y aura toujours, toujours ! un problème ! en gérant la circulation et les a
 “*À force de travail et de mise en confiance. Débloquer ce qui se passe dans sa tête… Petit à petit, en y croyant, et, en s’engageant comme jamais !*”
 
 Lien avec ⇒ Le Dancing, c’est très accessible quand tu es à l’aise sur ta board. Et inversement. Le Dancing te permet de développer ta confiance tranquillement pour affronter ensuite les dangers de la ride en ville !
-
-Stay Spooky!
-
-PS : une assurance responsabilité civile est tout de même conseillée, vous n’êtes pas seul(e) sur la route. Vous pouvez en avoir une personnelle (Risques Vie Perso) ou passer par une Association (ALT) et la Fédération Française de Roller et Skateboard (FFRS).

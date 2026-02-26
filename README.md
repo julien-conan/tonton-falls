@@ -18,6 +18,11 @@ Run `npm run build` to build the client/server project. The client build artifac
 
 Run `npm run test` to run unit tests with [Vitest](https://vitest.dev).
 
+## Documentation
+
+[Build a Blog with Angular in Under 30 Minutes Using Analog](https://www.telerik.com/blogs/build-blog-angular-under-30-minutes-using-analog)  
+[Front Matter - Jekyll](https://jekyllrb.com/docs/front-matter/)
+
 ## Community
 
 - Visit and Star the [GitHub Repo](https://github.com/analogjs/analog)

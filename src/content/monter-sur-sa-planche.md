@@ -1,13 +1,13 @@
 ---
 title: Monter sur sa planche
 slug: monter-sur-sa-planche
-description: Monter sur sa board pour la 1ère fois (ou la 1000ème fois de la bonne façon)
+description: Monter sur sa board pour la 1ère fois (ou la 1000ème)
 coverImage: 'images/anatomy-of-a-skateboard.jpg'
 ---
 
 ## Goofy ou regular ?
 
-Avant tout chose, il faut savoir quel est le pied que tu mets à l’avant de la planche, et celui que tu mets à l’arrière. On met généralement plus de poids sur la jambe avant, donc ce doit être ta “jambe forte”, celle sur laquelle tu te réceptionnes lors d’une fente avant.
+Avant tout, tu dois connaître ton pied fort, celui que tu mets à l’avant de la planche, et celui que tu mets à l’arrière. On met généralement plus de poids sur la jambe avant, donc ce doit être ta “jambe forte”, celle sur laquelle tu te réceptionnes lors d’une fente avant par exemple.
 
 ![Stance Goofy VS Regular](/images/stance-goofy-vs-regular.jpeg)
 
