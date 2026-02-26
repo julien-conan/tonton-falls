@@ -1,6 +1,36 @@
+h2 {
+  font-size: 1.4em;
+  font-weight: 700;
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+  color: #ffffff;
+}
+
+h3 {
+  font-size: 1.2em;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+  color: #ffffff;
+}
+
+h4 {
+  font-size: 1.2em;
+  font-weight: 500;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: #213547;
+}
+
+h5, h6 {
+  font-size: 1em;
+  font-weight: 400;
+  margin-top: 0.5rem;
+  margin-bottom: 0.25rem;
+  color: #213547;
+}
 @import 'tailwindcss';
 
-/* You can add global styles to this file, and also import other style files */
 :root {
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
   font-size: 16px;
